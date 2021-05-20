@@ -1,2 +1,2 @@
 # OpenCV-Finger_count
-##Finger count using OpenCV
+## Finger count using OpenCV
